@@ -5,8 +5,8 @@ Tasty Table is an app created to help you discover and explore recipes using Jet
 ## Result
 
 ### UI
-| ![home](common/src/main/java/com/abdts/common/previews/Screenshot_20241023_003024.png) | ![search](common/src/main/java/com/abdts/common/previews/Screenshot_20241023_003104.png) | ![detail](common/src/main/java/com/abdts/common/previews/Screenshot_20241023_003128.png) | ![instruction](common/src/main/java/com/abdts/common/previews/Screenshot_20241023_003138.png) | ![category](common/src/main/java/com/abdts/common/previews/Screenshot_20241023_003200.png)| 
-![favorite](common/src/main/java/com/abdts/common/previews/Screenshot_20241023_003228.png)
+| ![home](common/src/main/java/com/abdts/common/previews/home_tasty.png) | ![search](common/src/main/java/com/abdts/common/previews/search_tasty.png) | ![detail](common/src/main/java/com/abdts/common/previews/detail_tasty.png) | ![instruction](common/src/main/java/com/abdts/common/previews/ingredients_tasty.png) | ![category](common/src/main/java/com/abdts/common/previews/category.png)| 
+![favorite](common/src/main/java/com/abdts/common/previews/favorite.png)
 |----------|:----------:|:--------:|:---------:|:---------:|
 
 
